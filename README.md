@@ -10,6 +10,3 @@ This is William, an artificial intelligent robot!
 this is 啊 new branch
 
 this is change on GitHub
-
-
-someting bad
